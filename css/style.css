@@ -1,0 +1,20 @@
+.link{
+        font-size: 20pt;
+}
+.link:hover{
+	color: red;
+	background-image: url("img/logout.png");
+
+}
+.link:link{
+	color: blue;
+	background-image: url("img/logout.png");
+
+}
+.link:active{
+	color: green;
+	background-image: url("img/logout.png");
+}
+.link:visited{
+	background: yellow;
+}
